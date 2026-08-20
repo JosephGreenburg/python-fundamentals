@@ -1,0 +1,2 @@
+# This repository focuses on Python standard library fundamentals.
+# Add third-party packages here only when needed for specific exercises.
