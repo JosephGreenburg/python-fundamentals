@@ -27,3 +27,10 @@ The goal is not just to make code work, but to understand **what each line does*
 06-oop/
 07-modules/
 projects/
+```
+
+Notes
+```text
+This is a personal learning repository. Code is written for understanding, not for production use.
+text
+```
